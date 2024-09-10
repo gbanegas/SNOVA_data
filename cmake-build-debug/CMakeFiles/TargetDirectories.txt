@@ -1,0 +1,3 @@
+/home/obiwan/papers/SNOVA_mul/cmake-build-debug/CMakeFiles/SNOVA_mul.dir
+/home/obiwan/papers/SNOVA_mul/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/obiwan/papers/SNOVA_mul/cmake-build-debug/CMakeFiles/rebuild_cache.dir
